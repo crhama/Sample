@@ -71,7 +71,7 @@
                         </ScrollPane>
                      </content>
                   </TitledPane>
-                  <Text layoutX="620.0" layoutY="27.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Welcome" />
+                  <Text layoutX="610.0" layoutY="27.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Welcome" />
                   <Text fx:id="username" fill="#2e0ae5" layoutX="680.0" layoutY="27.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-font-weight: bold;" />
                   <Button fx:id="logoutButton" layoutX="775.0" layoutY="10.0" mnemonicParsing="false" text="Logout" />
                </children>
